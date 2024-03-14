@@ -1,4 +1,5 @@
 Python Challenge
+
 The Python Challenge repository consists of Python scripts for analyzing data from budget_data.csv and election_data.csv files, providing financial analysis and election results using Python scripts.
 
 Introduction
@@ -26,10 +27,13 @@ To run the Python scripts, follow these steps:
 
 1.Clone the GitHub repository to your local machine using the following command
   git clone https://github.com/SriPenumatcha/python-challenge.git
+  
 2.Navigate to the project directory:
   cd python-challenge\PyBank
   or 
   cd python-challenge\PyPoll
+  
 3.Run the Python script using the following command:
   python main.py
+  
 4.View the results in the terminal and also in the output file in text format, which is stored in the Analysis folder.
